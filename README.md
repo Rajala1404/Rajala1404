@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Ich bin ein Hobby Software Developer der hauptsichlich in Java und Zig programmiert <br/> 
-aber ich programmiere auch in Vue.js und C# (Unity) <br/>
-Ich lerne grade Android App Development
-Ich spiele auch gerne Spiele
 
 ###
 
