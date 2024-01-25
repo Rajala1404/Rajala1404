@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ich bin ein Hobby Software Developer der hauptsichlich in Java und Zig programmiert aber ich programmiere auch in Vue.js und C# (Unity)
+Ich bin ein Hobby Software Developer der hauptsichlich in Java und Zig programmiert \n aber ich programmiere auch in Vue.js und C# (Unity)
 
 ###
 
